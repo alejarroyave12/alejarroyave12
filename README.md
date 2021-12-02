@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maria Alejandra
+- 👋 Hi there, I’m Maria Alejandra
 - 👀 I’m interested in sustainability, human development and technology.
 - 🌱 I’m currently learning about Data Analytics, HR Analytics, IT Recruiting.
 - 💞️ I’m looking to collaborate on HR Analytics projects.
